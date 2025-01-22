@@ -61,7 +61,7 @@
     "express": "^4.18.2",
     "framer-motion": "^10.12.16",
     "helmet": "^7.0.0",
-    "http-graceful-shutdown": "^3.1.13",
+    "http-graceful-shutdown": "^3.1.14",
     "ioredis": "^5.4.2",
     "isbot": "^3.6.10",
     "nodemailer": "^6.9.3",
